@@ -1,3 +1,3 @@
-# leveluptutorials-react-spring-ch3-basic-spring
+# Demos from Level Up Tutorials' Animating React Course
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/leveluptutorials-react-spring-ch3-basic-spring)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/leveluptutorials-react-spring)
