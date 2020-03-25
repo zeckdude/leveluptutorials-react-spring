@@ -47,6 +47,7 @@ body {
   bottom: 0;
   padding: 100px;
   background: var(--purp);
+  z-index: 10;
 }
 
 .nav-wrapper a {
@@ -70,6 +71,7 @@ body {
   font-size: 2rem;
   background: transparent;
   border: none;
+  z-index: 15;
 }
 
 h1 {
